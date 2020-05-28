@@ -28,3 +28,8 @@ Then people split up into two groups and go out on alternating days, what the
 ideal case may end up looking like is:
 
 ![time distanced transmission](/assets/images/distanced_population.svg)
+
+Where the people in the blue region went out on Monday, Tuesday and Wednesday
+and the green people had Thursday and Friday. In this way, even if the people
+in the red circle had shown up to the same supermarket, because they were not
+there at the same time, then transmission would be unable to occur.
