@@ -22,9 +22,9 @@ so if normal transmission and going out looks like:
 
 And social distancing looks like:
 
-![normal transmission](/assets/images/normal_population.svg)
+![distanced transmission](/assets/images/distanced_population.svg)
 
 Then people split up into two groups and go out on alternating days, what the
 ideal case may end up looking like is:
 
-![normal transmission](/assets/images/normal_population.svg)
+![time distanced transmission](/assets/images/distanced_population.svg)
