@@ -40,5 +40,5 @@ unable to occur.
 If you want to participate, here is a calendar dividing up each week in June in
 a very basic way. Pick a team (BlueSky or GreenMeadow) and stick with it.
 
-[Google Calendar](https://calendar.google.com/calendar/embed?src=lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com&ctz=America%2FNew_York)
-[Importable calendar file](https://calendar.google.com/calendar/ical/lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com/public/basic.ics)
+* [Google Calendar](https://calendar.google.com/calendar/embed?src=lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com&ctz=America%2FNew_York)
+* [Importable calendar file](https://calendar.google.com/calendar/ical/lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com/public/basic.ics)
