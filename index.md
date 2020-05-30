@@ -48,5 +48,3 @@ a very basic way. Pick a team (BlueSky or GreenMeadow) and stick with it.
 This can be imported into outlook, iCalendar and other apps
 
 [The DistancingByDay calendar file (June 2020)](https://calendar.google.com/calendar/ical/lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com/public/basic.ics)
-
-And stay safe out there!
