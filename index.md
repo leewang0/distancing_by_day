@@ -40,11 +40,5 @@ unable to occur.
 If you want to participate, here is a calendar dividing up each week in June in
 a very basic way. Pick a team (BlueSky or GreenMeadow) and stick with it.
 
-### Google Calendar:
-<iframe src="https://calendar.google.com/calendar/embed?height=440&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=bGs4amwyM3UwNGF1cDlnaGcwdDRlNjdjZGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23A79B8E&amp;showTz=0&amp;showCalendars=0&amp;showPrint=0&amp;showDate=1&amp;showTitle=0" style="border:solid 1px #777" width="620" height="440" frameborder="0" scrolling="no"></iframe>
-
-### File-based:
-
-This can be imported into outlook, iCalendar and other apps
-
-[The DistancingByDay calendar file (June 2020)](https://calendar.google.com/calendar/ical/lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com/public/basic.ics)
+[Google Calendar](https://calendar.google.com/calendar/embed?src=lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com&ctz=America%2FNew_York)
+[Importable calendar file](https://calendar.google.com/calendar/ical/lk8jl23u04aup9ghg0t4e67cdk%40group.calendar.google.com/public/basic.ics)
