@@ -29,7 +29,7 @@ Then if people split up into two groups and go out on alternating days, what the
 ideal case may end up looking like is:
 
 ![time distanced transmission](/assets/images/time_distanced_population.svg)
-(Where the blue area went out some days and green area other days)
+(Where the blue group went out some days and green group on the other days)
 
 In this way, even if the people in the red circle had shown up to the same
 supermarket, because they were not there at the same time, transmission would be
